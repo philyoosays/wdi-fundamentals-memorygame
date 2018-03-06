@@ -69,6 +69,34 @@ footer {
 	font-weight: 500;
 }
 
+button {
+	background-color: #F15B31;
+	padding: 10px 30px;
+	border-radius: 5px;
+	color: white;
+	font-family: "Raleway", sans-serif;
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 25px;
+	margin-top: 30px;
+}
+
+#message {
+	float: center;
+}
+
+#restart {
+	margin-top: 10px;
+}
+
+#scoreBoard {
+	font-family: "Raleway", sans-serif;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	color: #00A6B3;
+	font-weight: 700;
+}
+
 .copyright {
 	font-family: "raleway", sans-serif;
 	float: left;
